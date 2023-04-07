@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Puneeth208
-- 👀 I’m interested in data science 
-- 🌱 I’m currently learning java 
+- 👀 I’m interested in hacking
+- 🌱 I’m currently learning java and basics of web
 -📫 u can reach me via my email puneethb256@gmail.com 
 
 <!---
