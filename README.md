@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Puneeth208
-- 👀 I’m interested in hacking
-- 🌱 I’m currently learning java and basics of web
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently exploring AI
 -📫 u can reach me via my email puneethb256@gmail.com 
 
 <!---
